@@ -6,7 +6,7 @@ I worked on
  
  Implement Logistic Regression, a powerful machine learning algorithm, for churn prediction.
  
- Evaluate the model's performance with key metrics like accuracy, precision, recall, and roc auc score.
+ Evaluate the model's performance with key metrics like accuracy, precision, recall score.
 
  # Model Used :
  Logistic Regression
